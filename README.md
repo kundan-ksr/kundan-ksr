@@ -1,7 +1,7 @@
 <p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://github.com/kundan-ksr/kundan-ksr/blob/main/banner.gif"><img src="https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif" alt="logo" style="max-width: 100%;"></a></p>
 
 <h1 align="center">Hi 👋, I'm Kundan Kumar</h1>
-<h3 align="center">A enthusiast CSE student inclined towards technology from India.</h3>
+<h3 align="center">A enthusiast CSE student inclined towards technology.</h3>
 
 <br><br>
 <img align="right" alt="Test_Case" width="300" src="https://github.com/kundan-ksr/kundan-ksr/blob/main/animatedTestcase.gif">
