@@ -20,7 +20,7 @@
 <p align="left">
 <a href="https://twitter.com/shivaays59372" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shivaays59372" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/kundan08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kundan08" height="30" width="40" /></a>
-<a href="https://instagram.com/kundan_ksr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kundan_ksr" height="30" width="40" /></a>
+<!-- <a href="https://instagram.com/kundan_ksr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kundan_ksr" height="30" width="40" /></a> -->
 <a href="https://www.hackerrank.com/shivaayssr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shivaayssr" height="30" width="40" /></a>
 </p>
 
